@@ -1,0 +1,7 @@
+class Human
+{
+	public static void main(string [] args)
+	{
+		System.out.println("Human is eating");
+	}
+}
